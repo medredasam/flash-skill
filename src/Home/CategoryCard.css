@@ -1,0 +1,7 @@
+.category-card .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem; /* Espace entre l'icône et le titre */
+  }
+  
